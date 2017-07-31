@@ -1,0 +1,52 @@
+1	Gervais	Valjean
+2	Gribier	Fauchelevent
+3	Cosette	Tholomyes
+4	Child1	Child2
+5	Fantine	Bamatabois
+6	Simplice	Perpetue
+7	MmePontmercy	Pontmercy
+8	Gavroche	MmeBurgon
+9	Myriel	Napoleon
+10	Marius	Tholomyes
+11	Myriel	Cravatte
+12	Myriel	Champtercier
+13	Scaufflaire	Valjean
+14	Boulatruelle	Thenardier
+15	Labarre	Valjean
+16	BaronessT	Gillenormand
+17	Myriel	CountessDeLo
+18	Isabeau	Valjean
+19	Valjean	Marguerite
+20	MlleGillenormand	MmePontmercy
+21	MlleGillenormand	MlleVaubois
+22	Gillenormand	Magnon
+23	MmeDeR	Valjean
+24	Count	Myriel
+25	MotherPlutarch	Mabeuf
+26	Pontmercy	Thenardier
+27	Pontmercy	Marius
+28	Fauchelevent	MotherInnocent
+29	Myriel	OldMan
+30	Fantine	Marguerite
+31	MmeThenardier	Magnon
+32	Jondrette	MmeBurgon
+33	Myriel	Geborand
+34	Child1	Child2	Gavroche
+35	Bamatabois	Brevet	Judge	Champmathieu	Cochepaille	Chenildieu
+36	Cosette	Woman2	Toussaint
+37	Fantine	Simplice	Perpetue
+38	Joly	Combeferre	Feuilly	Gavroche	Bahorel	MmeHucheloup	Enjolras	Courfeyrac	Grantaire	Bossuet	Prouvaire	Mabeuf	Marius
+39	MmeThenardier	Eponine	Thenardier	Anzelma
+40	Zephine	Fameuil	Tholomyes	Favourite	Dahlia	Blacheville	Listolier	Fantine
+41	LtGillenormand	Cosette	Gillenormand	MlleGillenormand
+42	Judge	Bamatabois	Valjean	Javert	Brevet	Champmathieu	Cochepaille	Chenildieu
+43	Javert	Fauchelevent	Valjean	MotherInnocent
+44	Javert	Simplice	Valjean
+45	Gueulemer	Eponine	Javert	Claquesous	Babet	MmeThenardier	Valjean	Montparnasse	Brujon	Thenardier
+46	Fantine	Valjean	Javert	MmeThenardier	Thenardier
+47	LtGillenormand	Cosette	Gillenormand	Valjean	Javert	MlleGillenormand	MmeThenardier	Thenardier
+48	Valjean	Woman1	Woman2	Toussaint	Javert
+49	Gueulemer	Eponine	Gavroche	Javert	Claquesous	Enjolras	Babet	Courfeyrac	Valjean	Thenardier	Montparnasse	Bossuet	Brujon	Mabeuf	Marius
+50	Cosette	LtGillenormand	Gillenormand	BaronessT	MlleGillenormand	Marius
+51	MmeMagloire	Myriel	MlleBaptistine
+52	Myriel	MlleBaptistine	MmeMagloire	Valjean

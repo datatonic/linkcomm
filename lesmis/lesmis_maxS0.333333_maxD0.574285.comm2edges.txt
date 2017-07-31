@@ -1,0 +1,52 @@
+1	Gervais,Valjean
+2	Fauchelevent,Gribier
+3	Cosette,Tholomyes
+4	Child1,Child2
+5	Bamatabois,Fantine
+6	Perpetue,Simplice
+7	MmePontmercy,Pontmercy
+8	Gavroche,MmeBurgon
+9	Myriel,Napoleon
+10	Marius,Tholomyes
+11	Cravatte,Myriel
+12	Champtercier,Myriel
+13	Scaufflaire,Valjean
+14	Boulatruelle,Thenardier
+15	Labarre,Valjean
+16	BaronessT,Gillenormand
+17	CountessDeLo,Myriel
+18	Isabeau,Valjean
+19	Marguerite,Valjean
+20	MlleGillenormand,MmePontmercy
+21	MlleGillenormand,MlleVaubois
+22	Gillenormand,Magnon
+23	MmeDeR,Valjean
+24	Count,Myriel
+25	Mabeuf,MotherPlutarch
+26	Pontmercy,Thenardier
+27	Marius,Pontmercy
+28	Fauchelevent,MotherInnocent
+29	Myriel,OldMan
+30	Fantine,Marguerite
+31	Magnon,MmeThenardier
+32	Jondrette,MmeBurgon
+33	Geborand,Myriel
+34	Child2,Gavroche	Child1,Gavroche
+35	Bamatabois,Judge	Brevet,Champmathieu	Bamatabois,Cochepaille	Chenildieu,Judge	Chenildieu,Cochepaille	Bamatabois,Champmathieu	Champmathieu,Chenildieu	Brevet,Chenildieu	Champmathieu,Cochepaille	Cochepaille,Judge	Champmathieu,Judge	Brevet,Cochepaille	Brevet,Judge	Bamatabois,Brevet	Bamatabois,Chenildieu
+36	Cosette,Woman2	Cosette,Toussaint
+37	Fantine,Perpetue	Fantine,Simplice
+38	Combeferre,Gavroche	Bossuet,Mabeuf	Bahorel,Grantaire	Courfeyrac,Marius	Enjolras,Gavroche	Combeferre,Feuilly	Courfeyrac,Enjolras	Courfeyrac,Joly	Gavroche,Mabeuf	Courfeyrac,MmeHucheloup	Gavroche,Marius	Joly,Marius	Joly,Mabeuf	Bahorel,Joly	Bossuet,Feuilly	Bahorel,Combeferre	Grantaire,MmeHucheloup	Combeferre,Marius	Combeferre,Courfeyrac	Grantaire,Joly	Enjolras,Grantaire	Bahorel,Gavroche	Combeferre,Mabeuf	Bahorel,MmeHucheloup	Feuilly,Mabeuf	Combeferre,Joly	Enjolras,MmeHucheloup	Bahorel,Enjolras	Enjolras,Joly	Enjolras,Feuilly	Feuilly,Gavroche	Courfeyrac,Grantaire	Bahorel,Marius	Bossuet,Grantaire	Bossuet,Courfeyrac	Bahorel,Mabeuf	Gavroche,Joly	Bossuet,Gavroche	Bossuet,Prouvaire	Gavroche,MmeHucheloup	Courfeyrac,Gavroche	Enjolras,Prouvaire	Bossuet,Enjolras	Bahorel,Feuilly	Bossuet,Combeferre	Grantaire,Prouvaire	Bossuet,MmeHucheloup	Gavroche,Prouvaire	Enjolras,Marius	Bossuet,Joly	Joly,Prouvaire	Combeferre,Prouvaire	Feuilly,Joly	Enjolras,Mabeuf	Courfeyrac,Feuilly	Feuilly,Prouvaire	Combeferre,Grantaire	Bahorel,Courfeyrac	Gavroche,Grantaire	Courfeyrac,Prouvaire	Joly,MmeHucheloup	Feuilly,Grantaire	Bahorel,Bossuet	Feuilly,Marius	Mabeuf,Marius	Bossuet,Marius	Combeferre,Enjolras	Bahorel,Prouvaire	Courfeyrac,Mabeuf
+39	Anzelma,Thenardier	Anzelma,Eponine	Anzelma,MmeThenardier
+40	Fantine,Zephine	Favourite,Listolier	Favourite,Tholomyes	Fameuil,Listolier	Fantine,Tholomyes	Dahlia,Fantine	Fameuil,Favourite	Favourite,Zephine	Blacheville,Listolier	Fameuil,Tholomyes	Tholomyes,Zephine	Fameuil,Fantine	Listolier,Tholomyes	Blacheville,Tholomyes	Blacheville,Fantine	Dahlia,Fameuil	Blacheville,Dahlia	Blacheville,Fameuil	Fameuil,Zephine	Fantine,Listolier	Dahlia,Favourite	Dahlia,Tholomyes	Listolier,Zephine	Dahlia,Zephine	Blacheville,Zephine	Blacheville,Favourite	Fantine,Favourite	Dahlia,Listolier
+41	Gillenormand,LtGillenormand	Cosette,LtGillenormand	Gillenormand,MlleGillenormand	Cosette,Gillenormand	Cosette,MlleGillenormand	LtGillenormand,MlleGillenormand
+42	Cochepaille,Valjean	Bamatabois,Valjean	Bamatabois,Javert	Champmathieu,Valjean	Chenildieu,Valjean	Brevet,Valjean	Judge,Valjean
+43	Fauchelevent,Javert	MotherInnocent,Valjean	Fauchelevent,Valjean
+44	Javert,Simplice	Simplice,Valjean
+45	Brujon,Eponine	Babet,Eponine	Babet,Javert	Brujon,Thenardier	Babet,Brujon	Gueulemer,Valjean	Thenardier,Valjean	Babet,Montparnasse	Montparnasse,Thenardier	Babet,Valjean	Javert,Thenardier	Brujon,Gueulemer	Gueulemer,Thenardier	Eponine,Thenardier	Gueulemer,Javert	Javert,Montparnasse	Claquesous,Javert	Babet,Thenardier	Javert,Valjean	Claquesous,MmeThenardier	Eponine,Montparnasse	MmeThenardier,Valjean	Gueulemer,Montparnasse	Claquesous,Gueulemer	Babet,Claquesous	Gueulemer,MmeThenardier	Claquesous,Thenardier	Claquesous,Eponine	MmeThenardier,Thenardier	Babet,MmeThenardier	Claquesous,Valjean	Babet,Gueulemer	Brujon,Claquesous	Eponine,MmeThenardier	Claquesous,Montparnasse	Montparnasse,Valjean	Javert,MmeThenardier	Eponine,Gueulemer	Brujon,Montparnasse
+46	Fantine,Javert	Fantine,Thenardier	Fantine,Valjean	Fantine,MmeThenardier
+47	Cosette,Thenardier	LtGillenormand,Thenardier	Cosette,Javert	Gillenormand,Valjean	MlleGillenormand,Valjean	Cosette,Valjean	Cosette,MmeThenardier
+48	Javert,Toussaint	Toussaint,Valjean	Valjean,Woman2	Valjean,Woman1	Javert,Woman2	Javert,Woman1
+49	Gavroche,Valjean	Eponine,Mabeuf	Gavroche,Montparnasse	Eponine,Marius	Gavroche,Gueulemer	Babet,Gavroche	Courfeyrac,Eponine	Gavroche,Thenardier	Enjolras,Valjean	Marius,Valjean	Claquesous,Enjolras	Brujon,Gavroche	Enjolras,Javert	Gavroche,Javert	Marius,Thenardier	Bossuet,Valjean
+50	Gillenormand,Marius	Marius,MlleGillenormand	LtGillenormand,Marius	Cosette,Marius	BaronessT,Marius
+51	MlleBaptistine,MmeMagloire	MmeMagloire,Myriel	MlleBaptistine,Myriel
+52	MmeMagloire,Valjean	MlleBaptistine,Valjean	Myriel,Valjean
